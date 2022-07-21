@@ -1,0 +1,14 @@
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.exe
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.deps.json
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.runtimeconfig.json
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.runtimeconfig.dev.json
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.dll
+I:\Code Projects\Projetos de turmas\7159\C# Console\bin\Debug\netcoreapp3.1\C# Console.pdb
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.csproj.AssemblyReference.cache
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.GeneratedMSBuildEditorConfig.editorconfig
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.AssemblyInfoInputs.cache
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.AssemblyInfo.cs
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.csproj.CoreCompileInputs.cache
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.dll
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.pdb
+I:\Code Projects\Projetos de turmas\7159\C# Console\obj\Debug\netcoreapp3.1\C# Console.genruntimeconfig.cache

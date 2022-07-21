@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXkNcyLGimgurY2B8wsSZ3jYcfz/C2T2cjuhJf0olSEhmyzg0QRZO3EWP90R6K2mxhtXdwwBCVdq2G17Pix5YA==",
+  "success": true,
+  "projectFilePath": "I:\\Code Projects\\Projetos de turmas\\7159\\C# Console\\C# Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiluc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
