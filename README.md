@@ -4,11 +4,3 @@ Repositório com códigos desenvolvidos durante as aulas das turmas 7159, 7160, 
 ## Módulo 1
 * C# Console
 
-## Módulo 2
-...
-
-## Módulo 3
-...
-
-## Módulo 4
-...
