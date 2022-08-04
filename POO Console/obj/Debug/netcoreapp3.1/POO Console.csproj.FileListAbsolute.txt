@@ -1,0 +1,14 @@
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.csproj.AssemblyReference.cache
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.AssemblyInfoInputs.cache
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.AssemblyInfo.cs
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.csproj.CoreCompileInputs.cache
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.exe
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.deps.json
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.runtimeconfig.json
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.runtimeconfig.dev.json
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.dll
+E:\Projetos\Projetos de Turmas\7159\POO Console\bin\Debug\netcoreapp3.1\POO Console.pdb
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.dll
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.pdb
+E:\Projetos\Projetos de Turmas\7159\POO Console\obj\Debug\netcoreapp3.1\POO Console.genruntimeconfig.cache
