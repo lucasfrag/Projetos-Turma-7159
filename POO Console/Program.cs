@@ -6,15 +6,26 @@ namespace POO_Console
     {
         static void Main(string[] args)
         {
+
             // Exemplo com DO WHILE
             string resposta;
+            ListaCarro lista = new ListaCarro();
+
             do {
                 Carro outroCarro = new Carro();
                 outroCarro.Cadastrar();
-                outroCarro.Exibir(); 
+                //outroCarro.Exibir(); 
 
+                // Argumento => passo algo || resposta
+                lista.Adicionar(outroCarro);
+                lista.Listar();
+                
                 Console.WriteLine("Você quer cadastrar outro carro? (S/N)");
                 resposta = Console.ReadLine();  
+
+                if(resposta == "N") {
+                    lista.Calcular();
+                }
             } while (resposta != "N");
 
             /* Exemplo com o WHILE
