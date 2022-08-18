@@ -1,0 +1,32 @@
+@model Carro
+
+@{
+    ViewData["Title"] = "Cadastro de Veículos";
+}
+
+<h1>Cadastro de veículos</h1>
+<p>Preencha os dados corretamente para cadastrar um veículo.</p>
+
+<form method="POST">
+    <p>
+    <label>Marca:</label>
+    <input asp-for="marca">
+    </p>
+
+    <p>
+    <label>Ano:</label>
+    <input asp-for="ano">
+    </p>
+
+    <p>
+    <label>Cor:</label>
+    <input asp-for="cor">
+    </p>
+
+    <p>
+    <label>Valor:</label>
+    <input asp-for="valor">
+    </p>
+
+    <input type="submit" value="Cadastrar">
+</form>
