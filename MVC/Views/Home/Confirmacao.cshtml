@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Confirmação";
+}
+
+<h1>Cadastro foi realizado com sucesso!</h1>
+<p>Os seguintes dados foram cadastrados:</p>
+
+<p>Marca: @ViewBag.marca</p>
+<p>Ano: @ViewBag.ano </p>
+<p>Cor: @ViewBag.cor </p>
+<p>Valor: R$ @ViewBag.valor </p>
+<p></p>
+
+<p>
+    <a asp-action="Cadastro">Adicionar outro veículo.</a>
+</p>
+
+<p>
+    <a asp-action="Listagem">Ver lista de veículos cadastrados.</a>
+</p>

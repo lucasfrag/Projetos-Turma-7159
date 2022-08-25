@@ -13,5 +13,15 @@ namespace MVC.Models
         public void Adicionar(Carro carroNovo) {
             listaDeCarros.Add(carroNovo);
         }
+
+        public double Calcular() {
+            double total = 0;
+
+            for(int i=0; i < listaDeCarros.Count; i++) {
+                total = listaDeCarros[i].valor + total;
+            } 
+
+            return total;
+        }        
     }
 }

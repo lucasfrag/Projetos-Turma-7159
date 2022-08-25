@@ -37,7 +37,21 @@ namespace MVC.Controllers
         public IActionResult Cadastro(Carro novoCarro)
         {
             Dados.ListaCarroAtual.Adicionar(novoCarro);
-            return View();
+            //ViewBag.Mensagem = "Cadastro concluído com sucesso!";
+            ViewBag.marca = novoCarro.marca;
+            ViewBag.ano = novoCarro.ano;
+            ViewBag.cor = novoCarro.cor;
+            ViewBag.valor = novoCarro.valor;
+
+
+            return View("Confirmacao");
+        }
+
+        public IActionResult Listagem()
+        {
+            List<Carro> listaCompleta = Dados.ListaCarroAtual.Listar();
+            ViewBag.Total = Dados.ListaCarroAtual.Calcular();
+            return View(listaCompleta);
         }
 
 

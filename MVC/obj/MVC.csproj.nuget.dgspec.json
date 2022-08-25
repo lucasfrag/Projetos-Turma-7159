@@ -10,11 +10,11 @@
         "projectUniqueName": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC\\MVC.csproj",
         "projectName": "MVC",
         "projectPath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\tiluc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Lucas Fraga\\.nuget\\packages\\",
         "outputPath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tiluc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lucas Fraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -47,12 +45,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -61,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
         }
       }
     }

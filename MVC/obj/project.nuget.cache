@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dn4cDyG4+sGB8k7VMciEFBYUbdabX0RdtLhlXRAIwhM1O6da9kd4sKxQNQi7X0U/F6CK67x5YUk7ezMecEAtsQ==",
+  "dgSpecHash": "Qeyf0nGnmnVfABx+/vUanI8D8kpV16PtQifeQF08HdPWyKPsHV+wEVQisOnXIVTEUasOGBgnsuh7lgynmoDzsw==",
   "success": true,
   "projectFilePath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC\\MVC.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tiluc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

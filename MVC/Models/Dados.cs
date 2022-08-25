@@ -10,7 +10,7 @@ Dados.PedidoAtual.MetodoDePedido();
 *****/
 namespace MVC.Models 
 {
-    public static class Dados{
+    public static class Dados {
         public static ListaCarro ListaCarroAtual { get; set;}
         static Dados()
         {
