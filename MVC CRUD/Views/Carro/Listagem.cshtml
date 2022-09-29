@@ -1,0 +1,33 @@
+@model List<Carro>
+
+@{
+    ViewData["Title"] = "Lista de Veículos";
+}
+
+<h1>Lista de veículos</h1>
+<p>Confira abaixo a lista completa dos veículos cadastrados.</p>
+
+<p><b>Total dos veículos: R$ @ViewBag.Total</b></p>
+
+
+<table border="1px">
+    <thead align="center">
+        <tr>
+            <th width="100px">Marca</th>
+            <th width="100px">Ano</th>
+            <th width="100px">Cor</th>
+            <th width="100px">Valor</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        @foreach (Carro carroAtual in Model)
+        {
+            <tr>
+                <th>@carroAtual.marca</th>
+                <th>@carroAtual.ano</th>
+                <th>@carroAtual.cor</th>
+                <th>R$ @carroAtual.valor</th>
+            </tr>
+        }
+    </tbody>
+</table>

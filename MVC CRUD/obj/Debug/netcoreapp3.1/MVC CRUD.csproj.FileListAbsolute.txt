@@ -1,0 +1,43 @@
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.exe
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.deps.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.runtimeconfig.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.runtimeconfig.dev.json
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.dll
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.pdb
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.Views.dll
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MVC CRUD.Views.pdb
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.csprojAssemblyReference.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.AssemblyInfoInputs.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.AssemblyInfo.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.csproj.CoreCompileInputs.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.RazorAssemblyInfo.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.RazorAssemblyInfo.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.TagHelpers.input.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.TagHelpers.output.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.RazorCoreGenerate.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.RazorTargetAssemblyInfo.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.RazorTargetAssemblyInfo.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.Views.pdb
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\staticwebassets\MVC CRUD.StaticWebAssets.Manifest.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\staticwebassets\MVC CRUD.StaticWebAssets.xml
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.dll
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.pdb
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.genruntimeconfig.cache
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.csproj.CopyComplete
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Carro\Cadastro.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Carro\Confirmacao.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Carro\Listagem.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Carro\TestarConexao.cshtml.g.cs

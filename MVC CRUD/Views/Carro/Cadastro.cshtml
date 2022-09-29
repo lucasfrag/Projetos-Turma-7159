@@ -1,0 +1,35 @@
+@model Carro
+
+@{
+    ViewData["Title"] = "Cadastro de Veículos";
+}
+
+<h1>Cadastro de veículos</h1>
+<p>Preencha os dados corretamente para cadastrar um veículo.</p>
+
+<form method="POST">
+    <p>
+    <label>Marca:</label>
+    <input asp-for="marca" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Ano:</label>
+    <input asp-for="ano" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Cor:</label>
+    <input asp-for="cor" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Valor:</label>
+    <input asp-for="valor" autocomplete="off" required>
+    </p>
+
+    <input type="reset" value="Limpar">
+    <input type="submit" value="Cadastrar">
+    <br>
+    <p>@ViewBag.Mensagem</p>
+</form>
