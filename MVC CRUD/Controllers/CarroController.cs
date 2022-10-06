@@ -21,11 +21,11 @@ namespace MVC_CRUD.Controllers
             return View();
         }
 
-        /**
+        
         [HttpPost]
         public IActionResult Cadastro(Carro novoCarro)
         {
-            ListaCarro.Adicionar(novoCarro);
+            CarroBD.Inserir(novoCarro);
             //ViewBag.Mensagem = "Cadastro concluído com sucesso!";
             ViewBag.marca = novoCarro.marca;
             ViewBag.ano = novoCarro.ano;
@@ -35,15 +35,29 @@ namespace MVC_CRUD.Controllers
 
             return View("Confirmacao");
         }
-
+        
         public IActionResult Listagem()
         {
-            List<Carro> listaCompleta = ListaCarro.Listar();
-            ViewBag.Total = ListaCarro.Calcular();
+            List<Carro> listaCompleta = CarroBD.Listar();
+            //ViewBag.Total = ListaCarro.Calcular();
             return View(listaCompleta);
         }
 
-        */
         
+        public IActionResult Editar(int id) {
+            Carro carro = CarroBD.BuscarPorId(id);
+            return View(carro);
+        }
+
+        [HttpPost]
+        public IActionResult Editar(Carro carro) {
+            CarroBD.Atualizar(carro);
+            return RedirectToAction("Listagem");
+        }
+
+        public IActionResult Remover(int id) {
+            CarroBD.Remover(id);
+            return RedirectToAction("Listagem");
+        }
     }
 }

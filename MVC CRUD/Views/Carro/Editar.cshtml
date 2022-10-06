@@ -1,13 +1,14 @@
 @model Carro
 
 @{
-    ViewData["Title"] = "Cadastro de Veículos";
+    ViewData["Title"] = "Edição de Veículos";
 }
 
-<h1>Cadastro de veículos</h1>
-<p>Preencha os dados corretamente para cadastrar um veículo.</p>
+<h1>Edição de veículos</h1>
+<p>Preencha os dados corretamente para editar um veículo.</p>
 
-<form method="POST" asp-action="Cadastro">
+<form method="POST" asp-action="Editar">
+    <input type="hidden" asp-for="id">
     <p>
     <label>Marca:</label>
     <input asp-for="marca" autocomplete="off" required>
@@ -29,7 +30,7 @@
     </p>
 
     <input type="reset" value="Limpar">
-    <input type="submit" value="Cadastrar">
+    <input type="submit" value="Salvar">
     <br>
     <p>@ViewBag.Mensagem</p>
 </form>

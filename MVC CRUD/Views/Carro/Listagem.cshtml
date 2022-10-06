@@ -17,6 +17,7 @@
             <th width="100px">Ano</th>
             <th width="100px">Cor</th>
             <th width="100px">Valor</th>
+            <th width="100px">Ações</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -27,6 +28,10 @@
                 <th>@carroAtual.ano</th>
                 <th>@carroAtual.cor</th>
                 <th>R$ @carroAtual.valor</th>
+                <th>
+                    <a href="/Carro/Editar?id=@carroAtual.id">Editar</a>
+                    <a href="/Carro/Remover?id=@carroAtual.id">Remover</a>
+                </th>
             </tr>
         }
     </tbody>
