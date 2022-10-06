@@ -4,4 +4,5 @@ Repositório com códigos desenvolvidos durante as aulas das turmas 7159, 7160, 
 ## Módulo 1
 * C# Console
 * POO Console
-• MVC
+* MVC
+* MVC CRUD
