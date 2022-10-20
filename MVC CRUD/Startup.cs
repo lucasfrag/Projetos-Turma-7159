@@ -23,6 +23,9 @@ namespace MVC_CRUD
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddMemoryCache();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,6 +39,11 @@ namespace MVC_CRUD
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            
+            app.UseCookiePolicy();
+            app.UseSession();
+            
+            
             app.UseStaticFiles();
 
             app.UseRouting();

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Http;
 using MVC_CRUD.Models;
 
 namespace MVC_CRUD.Controllers
@@ -18,6 +19,14 @@ namespace MVC_CRUD.Controllers
 
         public IActionResult Cadastro()
         {
+            if(HttpContext.Session.GetInt32("id") == null) {
+                return RedirectToAction("Login", "Usuario");
+            }
+
+            if(HttpContext.Session.GetInt32("tipo") != 1) {
+                return RedirectToAction("Privacy", "Home");
+            }
+
             return View();
         }
 

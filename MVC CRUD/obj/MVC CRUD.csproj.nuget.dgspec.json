@@ -10,11 +10,11 @@
         "projectUniqueName": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC CRUD\\MVC CRUD.csproj",
         "projectName": "MVC CRUD",
         "projectPath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC CRUD\\MVC CRUD.csproj",
-        "packagesPath": "C:\\Users\\Lucas Fraga\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tiluc\\.nuget\\packages\\",
         "outputPath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas Fraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tiluc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,12 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.29, 3.1.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

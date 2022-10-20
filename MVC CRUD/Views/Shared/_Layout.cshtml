@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http;
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -34,13 +36,25 @@
                         </li>
 
                         <li class="nav-item">
+                            @if(Context.Session.GetInt32("id") != null && Context.Session.GetInt32("tipo") == 1) {
                             <a class="nav-link text-dark" asp-area="" asp-controller="Carro"
                                 asp-action="Cadastro">Cadastro de carros</a>
+                            }
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Carro"
                                 asp-action="Listagem">Listagem de carros</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuario"
+                                asp-action="Login">Login</a>
+                        </li>  
+                        <li class="nav-item">
+                            @if(Context.Session.GetInt32("id") != null) {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Usuario"
+                                                                asp-action="Logout">Logout</a>
+                            }
+                        </li>                                                  
                     </ul>
                 </div>
             </div>

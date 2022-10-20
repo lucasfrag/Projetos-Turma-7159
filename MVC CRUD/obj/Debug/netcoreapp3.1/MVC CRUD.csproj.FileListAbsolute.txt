@@ -41,3 +41,4 @@ E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views
 E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.csproj.AssemblyReference.cache
 E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\MVC CRUD.GeneratedMSBuildEditorConfig.editorconfig
 E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Carro\Editar.cshtml.g.cs
+E:\Projetos\Projetos de Turmas\7159\MVC CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs

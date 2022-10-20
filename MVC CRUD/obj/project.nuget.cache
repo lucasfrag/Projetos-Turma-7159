@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "daulikdiEwpmCFSfKPTZgRZRaswz2GUIT1BSCdzCSWq2dmSxNbB3mx7PoUVqcDm4oNj0Ju4OTvSchEDobc21dA==",
+  "dgSpecHash": "yPazTGnMVHRPOC6FwynBa2tFMth/F/Ty+ZmbWXnn1W3RJoau95Fk30IjIjNGoSbsVIka1T/+G76CoRWkpPQ7Aw==",
   "success": true,
   "projectFilePath": "E:\\Projetos\\Projetos de Turmas\\7159\\MVC CRUD\\MVC CRUD.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lucas Fraga\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
-    "C:\\Users\\Lucas Fraga\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\Lucas Fraga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+    "C:\\Users\\tiluc\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
+    "C:\\Users\\tiluc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
